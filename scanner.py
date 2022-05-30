@@ -11,7 +11,7 @@ else:
 
 print("-" * 50)
 print("scanning target "+target)
-print("time started: "+str(datetime.now())
+print("time started: "+str(datetime.now()))
 print("-" * 50) 
 
 try:
